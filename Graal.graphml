@@ -1,0 +1,652 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Yvains" />
+    <node id="Guenievre" />
+    <node id="Sarras" />
+    <node id="Do" />
+    <node id="Lyons" />
+    <node id="Arimacie" />
+    <node id="Yvain" />
+    <node id="Helains" />
+    <node id="Calogrenant" />
+    <node id="Tholomer" />
+    <node id="Argustes" />
+    <node id="Lion" />
+    <node id="Meliant" />
+    <node id="Ewalach" />
+    <node id="Melian" />
+    <node id="Libran" />
+    <node id="Pasques" />
+    <node id="Josephé" />
+    <node id="Sarrazin" />
+    <node id="Abel" />
+    <node id="Pentecoste" />
+    <node id="Dyabiaus" />
+    <node id="Saverne" />
+    <node id="Jonas" />
+    <node id="Graal" />
+    <node id="Melyanz" />
+    <node id="Melyans" />
+    <node id="Celidoyne" />
+    <node id="Enoc" />
+    <node id="Gaunes" />
+    <node id="Gaheriez" />
+    <node id="Artu" />
+    <node id="Kamaalot" />
+    <node id="Priadan" />
+    <node id="Girflet" />
+    <node id="Lancelot" />
+    <node id="Abiax" />
+    <node id="Ewalac" />
+    <node id="Moyses" />
+    <node id="Salebieres" />
+    <node id="Amant" />
+    <node id="Crudel" />
+    <node id="Seraphe" />
+    <node id="Mellin" />
+    <node id="Engleterre" />
+    <node id="Gauvain" />
+    <node id="Dex" />
+    <node id="Sanson" />
+    <node id="Corbenyc" />
+    <node id="Eve" />
+    <node id="Lambar" />
+    <node id="Marcoise" />
+    <node id="Grant" />
+    <node id="Urlans" />
+    <node id="Arymacie" />
+    <node id="Sarraz" />
+    <node id="Pellés" />
+    <node id="Adam" />
+    <node id="Gauvains" />
+    <node id="Pasque" />
+    <node id="Josephés" />
+    <node id="Amanz" />
+    <node id="Herlen" />
+    <node id="Cene" />
+    <node id="Ban" />
+    <node id="Salemon" />
+    <node id="Graaux" />
+    <node id="Jhesucriz" />
+    <node id="Cayns" />
+    <node id="Israel" />
+    <node id="Escoce" />
+    <node id="Illande" />
+    <node id="Bandemagus" />
+    <node id="Elyen" />
+    <node id="Damediex" />
+    <node id="Dieu" />
+    <node id="Benoyc" />
+    <node id="Tholomers" />
+    <node id="Graax" />
+    <node id="Gorre" />
+    <node id="Graalx" />
+    <node id="Jerusalem" />
+    <node id="Symeon" />
+    <node id="Mordrain" />
+    <node id="David" />
+    <node id="Melianz" />
+    <node id="Labrans" />
+    <node id="Carcelois" />
+    <node id="Salemons" />
+    <node id="Bademagus" />
+    <node id="Adan" />
+    <node id="Ullan" />
+    <node id="Escorant" />
+    <node id="Lyon" />
+    <node id="Mellins" />
+    <node id="Abarimacie" />
+    <node id="graax" />
+    <node id="Symeu" />
+    <node id="Labran" />
+    <node id="Melyant" />
+    <node id="Caim" />
+    <node id="Urien" />
+    <node id="Dame" />
+    <node id="Elays" />
+    <node id="Danyel" />
+    <node id="Nascien" />
+    <node id="Calogrenanz" />
+    <node id="Artus" />
+    <node id="Celydoines" />
+    <node id="Claudas" />
+    <node id="Bretaingne" />
+    <node id="Camaalot" />
+    <node id="Bohes" />
+    <node id="Galaad" />
+    <node id="Boort" />
+    <node id="Babiloine" />
+    <node id="Diex" />
+    <node id="Nasciens" />
+    <node id="Claudin" />
+    <node id="Caym" />
+    <node id="Henri" />
+    <node id="Hestors" />
+    <node id="Narpus" />
+    <node id="Irlande" />
+    <node id="Map" />
+    <node id="Keus" />
+    <node id="Judas" />
+    <node id="Lyonel" />
+    <node id="Hoselice" />
+    <node id="Joseph" />
+    <node id="Elyezer" />
+    <node id="Magdaleine" />
+    <node id="Vagan" />
+    <node id="Logres" />
+    <node id="Agloval" />
+    <node id="Absalon" />
+    <node id="Cains" />
+    <node id="Janaans" />
+    <node id="Hestor" />
+    <node id="Melyan" />
+    <node id="Gautier" />
+    <node id="Danemarche" />
+    <node id="Elyan" />
+    <node id="Marie" />
+    <node id="Jhesucrist" />
+    <node id="Fortin" />
+    <node id="Arimatie" />
+    <node id="Gales" />
+    <node id="Gaule" />
+    <node id="Damedieu" />
+    <node id="Mordrains" />
+    <node id="Perceval" />
+    <node id="Galois" />
+    <node id="Gaheriet" />
+    <node id="Ebreux" />
+    <node id="Helyes" />
+    <node id="Boorz" />
+    <node id="Bretaigne" />
+    <edge source="Yvains" target="Bademagus" />
+    <edge source="Yvains" target="Galaad" />
+    <edge source="Yvains" target="Bohes" />
+    <edge source="Yvains" target="Gauvains" />
+    <edge source="Yvains" target="Urien" />
+    <edge source="Yvains" target="Hestor" />
+    <edge source="Yvains" target="Gaunes" />
+    <edge source="Yvains" target="Gaheriez" />
+    <edge source="Yvains" target="Artus" />
+    <edge source="Yvains" target="Dieu" />
+    <edge source="Guenievre" target="Lancelot" />
+    <edge source="Guenievre" target="Artus" />
+    <edge source="Sarras" target="Ewalach" />
+    <edge source="Sarras" target="Bretaingne" />
+    <edge source="Sarras" target="Arimacie" />
+    <edge source="Sarras" target="Jhesucrist" />
+    <edge source="Sarras" target="Joseph" />
+    <edge source="Sarras" target="Jerusalem" />
+    <edge source="Sarras" target="Sarraz" />
+    <edge source="Sarras" target="Grant" />
+    <edge source="Sarras" target="Galaad" />
+    <edge source="Sarras" target="Tholomers" />
+    <edge source="Sarras" target="Josephés" />
+    <edge source="Sarras" target="Josephé" />
+    <edge source="Sarras" target="Nasciens" />
+    <edge source="Do" target="Girflet" />
+    <edge source="Do" target="Gauvains" />
+    <edge source="Do" target="Agloval" />
+    <edge source="Lyons" target="Boort" />
+    <edge source="Lyons" target="Diex" />
+    <edge source="Arimacie" target="Artus" />
+    <edge source="Arimacie" target="Galaad" />
+    <edge source="Arimacie" target="Sarraz" />
+    <edge source="Arimacie" target="Ewalach" />
+    <edge source="Arimacie" target="Tholomers" />
+    <edge source="Arimacie" target="Jhesucrist" />
+    <edge source="Arimacie" target="Joseph" />
+    <edge source="Arimacie" target="Jerusalem" />
+    <edge source="Arimacie" target="David" />
+    <edge source="Yvain" target="Galaad" />
+    <edge source="Yvain" target="Bandemagus" />
+    <edge source="Yvain" target="Gauvain" />
+    <edge source="Yvain" target="Gaheriet" />
+    <edge source="Helains" target="Galaad" />
+    <edge source="Helains" target="Boort" />
+    <edge source="Helains" target="Gauvains" />
+    <edge source="Helains" target="Perceval" />
+    <edge source="Helains" target="Graal" />
+    <edge source="Helains" target="Lancelot" />
+    <edge source="Helains" target="Dieu" />
+    <edge source="Helains" target="Lion" />
+    <edge source="Calogrenant" target="Artus" />
+    <edge source="Calogrenant" target="Calogrenant" />
+    <edge source="Calogrenant" target="Lyon" />
+    <edge source="Tholomer" target="Joseph" />
+    <edge source="Tholomer" target="Ewalach" />
+    <edge source="Tholomer" target="Josephés" />
+    <edge source="Argustes" target="Pellés" />
+    <edge source="Argustes" target="Herlen" />
+    <edge source="Argustes" target="Elyezer" />
+    <edge source="Lion" target="Galaad" />
+    <edge source="Lion" target="Boort" />
+    <edge source="Lion" target="Gauvains" />
+    <edge source="Lion" target="Perceval" />
+    <edge source="Lion" target="Graal" />
+    <edge source="Lion" target="Lancelot" />
+    <edge source="Lion" target="Boorz" />
+    <edge source="Lion" target="Dieu" />
+    <edge source="Meliant" target="Galaad" />
+    <edge source="Meliant" target="Dieu" />
+    <edge source="Meliant" target="Melian" />
+    <edge source="Meliant" target="Graal" />
+    <edge source="Ewalach" target="Ewalach" />
+    <edge source="Ewalach" target="Jhesucrist" />
+    <edge source="Ewalach" target="Joseph" />
+    <edge source="Ewalach" target="Jerusalem" />
+    <edge source="Ewalach" target="Sarraz" />
+    <edge source="Ewalach" target="Galaad" />
+    <edge source="Ewalach" target="Mordrains" />
+    <edge source="Ewalach" target="Josephés" />
+    <edge source="Ewalach" target="Tholomers" />
+    <edge source="Ewalach" target="Josephé" />
+    <edge source="Melian" target="Galaad" />
+    <edge source="Libran" target="Dieu" />
+    <edge source="Pasques" target="Galaad" />
+    <edge source="Pasques" target="Jhesucriz" />
+    <edge source="Josephé" target="Mordrains" />
+    <edge source="Josephé" target="Josephés" />
+    <edge source="Josephé" target="Grant" />
+    <edge source="Josephé" target="Nasciens" />
+    <edge source="Josephé" target="Nascien" />
+    <edge source="Josephé" target="Joseph" />
+    <edge source="Josephé" target="Bretaigne" />
+    <edge source="Josephé" target="Crudel" />
+    <edge source="Sarrazin" target="Diex" />
+    <edge source="Abel" target="Adam" />
+    <edge source="Abel" target="Caim" />
+    <edge source="Abel" target="Cayns" />
+    <edge source="Abel" target="Judas" />
+    <edge source="Abel" target="David" />
+    <edge source="Abel" target="Cains" />
+    <edge source="Abel" target="Abiax" />
+    <edge source="Abel" target="Abel" />
+    <edge source="Pentecoste" target="Galaad" />
+    <edge source="Pentecoste" target="Gauvains" />
+    <edge source="Pentecoste" target="Diex" />
+    <edge source="Pentecoste" target="Magdaleine" />
+    <edge source="Pentecoste" target="Lancelot" />
+    <edge source="Pentecoste" target="Jhesucrist" />
+    <edge source="Pentecoste" target="Graal" />
+    <edge source="Pentecoste" target="Kamaalot" />
+    <edge source="Pentecoste" target="Dieu" />
+    <edge source="Dyabiaus" target="Perceval" />
+    <edge source="Saverne" target="Galaad" />
+    <edge source="Jonas" target="Danyel" />
+    <edge source="Graal" target="Mellin" />
+    <edge source="Graal" target="Mellins" />
+    <edge source="Graal" target="Escorant" />
+    <edge source="Graal" target="Jhesucriz" />
+    <edge source="Graal" target="Lancelot" />
+    <edge source="Graal" target="Joseph" />
+    <edge source="Graal" target="Gautier" />
+    <edge source="Graal" target="Map" />
+    <edge source="Graal" target="graax" />
+    <edge source="Graal" target="Gauvains" />
+    <edge source="Graal" target="Henri" />
+    <edge source="Graal" target="Josephés" />
+    <edge source="Graal" target="Dex" />
+    <edge source="Graal" target="Sarraz" />
+    <edge source="Graal" target="Graal" />
+    <edge source="Graal" target="Marie" />
+    <edge source="Graal" target="Jhesucrist" />
+    <edge source="Graal" target="Eve" />
+    <edge source="Graal" target="Logres" />
+    <edge source="Graal" target="Dieu" />
+    <edge source="Graal" target="Galaad" />
+    <edge source="Graal" target="Boort" />
+    <edge source="Graal" target="Mordrains" />
+    <edge source="Graal" target="Perceval" />
+    <edge source="Graal" target="Magdaleine" />
+    <edge source="Graal" target="Salebieres" />
+    <edge source="Graal" target="Diex" />
+    <edge source="Graal" target="Nasciens" />
+    <edge source="Graal" target="Boorz" />
+    <edge source="Graal" target="Cene" />
+    <edge source="Melyanz" target="Galaad" />
+    <edge source="Melyanz" target="Dieu" />
+    <edge source="Melyans" target="Galaad" />
+    <edge source="Celidoyne" target="Narpus" />
+    <edge source="Celidoyne" target="Nasciens" />
+    <edge source="Celidoyne" target="Elyen" />
+    <edge source="Enoc" target="Helyes" />
+    <edge source="Gaunes" target="Galaad" />
+    <edge source="Gaunes" target="Bohes" />
+    <edge source="Gaunes" target="Gauvains" />
+    <edge source="Gaunes" target="Camaalot" />
+    <edge source="Gaunes" target="Lancelot" />
+    <edge source="Gaunes" target="Boort" />
+    <edge source="Gaunes" target="Boorz" />
+    <edge source="Gaheriez" target="Gauvains" />
+    <edge source="Gaheriez" target="Diex" />
+    <edge source="Artu" target="Lancelot" />
+    <edge source="Artu" target="Galaad" />
+    <edge source="Artu" target="Dieu" />
+    <edge source="Kamaalot" target="Diex" />
+    <edge source="Kamaalot" target="Hestor" />
+    <edge source="Kamaalot" target="Galaad" />
+    <edge source="Priadan" target="Amanz" />
+    <edge source="Girflet" target="Gauvains" />
+    <edge source="Girflet" target="Agloval" />
+    <edge source="Lancelot" target="Gauvain" />
+    <edge source="Lancelot" target="Graax" />
+    <edge source="Lancelot" target="Graalx" />
+    <edge source="Lancelot" target="Eve" />
+    <edge source="Lancelot" target="Lancelot" />
+    <edge source="Lancelot" target="Marcoise" />
+    <edge source="Lancelot" target="Hoselice" />
+    <edge source="Lancelot" target="Arymacie" />
+    <edge source="Lancelot" target="Pellés" />
+    <edge source="Lancelot" target="Logres" />
+    <edge source="Lancelot" target="Gauvains" />
+    <edge source="Lancelot" target="Joseph" />
+    <edge source="Lancelot" target="Hestor" />
+    <edge source="Lancelot" target="Ban" />
+    <edge source="Lancelot" target="Artus" />
+    <edge source="Lancelot" target="Keus" />
+    <edge source="Lancelot" target="Israel" />
+    <edge source="Lancelot" target="Camaalot" />
+    <edge source="Lancelot" target="Symeon" />
+    <edge source="Lancelot" target="Marie" />
+    <edge source="Lancelot" target="Benoyc" />
+    <edge source="Lancelot" target="Dieu" />
+    <edge source="Lancelot" target="Galaad" />
+    <edge source="Lancelot" target="Boort" />
+    <edge source="Lancelot" target="Diex" />
+    <edge source="Lancelot" target="Perceval" />
+    <edge source="Lancelot" target="Gorre" />
+    <edge source="Lancelot" target="Jhesucrist" />
+    <edge source="Lancelot" target="Salemons" />
+    <edge source="Lancelot" target="Mordrains" />
+    <edge source="Lancelot" target="Lyonel" />
+    <edge source="Lancelot" target="Boorz" />
+    <edge source="Abiax" target="Cains" />
+    <edge source="Ewalac" target="Nascien" />
+    <edge source="Ewalac" target="Sarraz" />
+    <edge source="Moyses" target="Israel" />
+    <edge source="Salebieres" target="Map" />
+    <edge source="Salebieres" target="Gautier" />
+    <edge source="Salebieres" target="Boorz" />
+    <edge source="Salebieres" target="Henri" />
+    <edge source="Amant" target="Jhesucrist" />
+    <edge source="Crudel" target="Joseph" />
+    <edge source="Seraphe" target="Tholomers" />
+    <edge source="Seraphe" target="Joseph" />
+    <edge source="Seraphe" target="Jerusalem" />
+    <edge source="Seraphe" target="Mordrains" />
+    <edge source="Seraphe" target="Sarraz" />
+    <edge source="Mellin" target="Mellins" />
+    <edge source="Engleterre" target="Logres" />
+    <edge source="Engleterre" target="Diex" />
+    <edge source="Engleterre" target="Graaux" />
+    <edge source="Gauvain" target="Artus" />
+    <edge source="Gauvain" target="Galaad" />
+    <edge source="Gauvain" target="Hestors" />
+    <edge source="Gauvain" target="Gauvains" />
+    <edge source="Gauvain" target="Diex" />
+    <edge source="Gauvain" target="Perceval" />
+    <edge source="Gauvain" target="Gauvain" />
+    <edge source="Gauvain" target="Gaheriet" />
+    <edge source="Gauvain" target="Hestor" />
+    <edge source="Dex" target="Galaad" />
+    <edge source="Dex" target="Escorant" />
+    <edge source="Sanson" target="Salemons" />
+    <edge source="Sanson" target="Fortin" />
+    <edge source="Sanson" target="David" />
+    <edge source="Sanson" target="Absalon" />
+    <edge source="Corbenyc" target="Pellés" />
+    <edge source="Corbenyc" target="Grant" />
+    <edge source="Corbenyc" target="Bretaingne" />
+    <edge source="Eve" target="Adam" />
+    <edge source="Eve" target="Galaad" />
+    <edge source="Eve" target="Adan" />
+    <edge source="Eve" target="Salemons" />
+    <edge source="Lambar" target="Logres" />
+    <edge source="Lambar" target="Ullan" />
+    <edge source="Marcoise" target="Dieu" />
+    <edge source="Grant" target="Pellés" />
+    <edge source="Grant" target="Diex" />
+    <edge source="Grant" target="Josephés" />
+    <edge source="Grant" target="Bretaingne" />
+    <edge source="Grant" target="Mordrains" />
+    <edge source="Grant" target="Nascien" />
+    <edge source="Grant" target="Bretaigne" />
+    <edge source="Urlans" target="Labrans" />
+    <edge source="Urlans" target="Labran" />
+    <edge source="Arymacie" target="Galaad" />
+    <edge source="Arymacie" target="Symeu" />
+    <edge source="Arymacie" target="Josephés" />
+    <edge source="Arymacie" target="Gorre" />
+    <edge source="Arymacie" target="Joseph" />
+    <edge source="Arymacie" target="Hoselice" />
+    <edge source="Arymacie" target="Symeon" />
+    <edge source="Sarraz" target="Artus" />
+    <edge source="Sarraz" target="Camaalot" />
+    <edge source="Sarraz" target="Jhesucrist" />
+    <edge source="Sarraz" target="Joseph" />
+    <edge source="Sarraz" target="Jerusalem" />
+    <edge source="Sarraz" target="Galaad" />
+    <edge source="Sarraz" target="Logres" />
+    <edge source="Sarraz" target="Tholomers" />
+    <edge source="Sarraz" target="Mordrains" />
+    <edge source="Sarraz" target="Boorz" />
+    <edge source="Sarraz" target="Babiloine" />
+    <edge source="Pellés" target="Herlen" />
+    <edge source="Pellés" target="Galaad" />
+    <edge source="Pellés" target="Elyezer" />
+    <edge source="Pellés" target="Bretaingne" />
+    <edge source="Pellés" target="Joseph" />
+    <edge source="Adam" target="Adam" />
+    <edge source="Adam" target="Diex" />
+    <edge source="Gauvains" target="Hestors" />
+    <edge source="Gauvains" target="Bademagus" />
+    <edge source="Gauvains" target="Vagan" />
+    <edge source="Gauvains" target="Gauvains" />
+    <edge source="Gauvains" target="Agloval" />
+    <edge source="Gauvains" target="Hestor" />
+    <edge source="Gauvains" target="Artus" />
+    <edge source="Gauvains" target="Marie" />
+    <edge source="Gauvains" target="Camaalot" />
+    <edge source="Gauvains" target="Boort" />
+    <edge source="Gauvains" target="Dieu" />
+    <edge source="Gauvains" target="Galaad" />
+    <edge source="Gauvains" target="Bohes" />
+    <edge source="Gauvains" target="Diex" />
+    <edge source="Gauvains" target="Perceval" />
+    <edge source="Gauvains" target="Gorre" />
+    <edge source="Gauvains" target="Magdaleine" />
+    <edge source="Pasque" target="Jerusalem" />
+    <edge source="Pasque" target="Ebreux" />
+    <edge source="Josephés" target="Bretaingne" />
+    <edge source="Josephés" target="Joseph" />
+    <edge source="Josephés" target="Arimatie" />
+    <edge source="Josephés" target="Galaad" />
+    <edge source="Josephés" target="Mordrains" />
+    <edge source="Josephés" target="Nasciens" />
+    <edge source="Josephés" target="Nascien" />
+    <edge source="Josephés" target="Bretaigne" />
+    <edge source="Herlen" target="Elyezer" />
+    <edge source="Ban" target="Benoyc" />
+    <edge source="Ban" target="Diex" />
+    <edge source="Salemon" target="Damediex" />
+    <edge source="Graaux" target="Logres" />
+    <edge source="Graaux" target="Diex" />
+    <edge source="Jhesucriz" target="Joseph" />
+    <edge source="Cayns" target="Judas" />
+    <edge source="Cayns" target="David" />
+    <edge source="Escoce" target="Carcelois" />
+    <edge source="Illande" target="Gaule" />
+    <edge source="Bandemagus" target="Galaad" />
+    <edge source="Elyen" target="Narpus" />
+    <edge source="Elyen" target="Nasciens" />
+    <edge source="Dieu" target="Graalx" />
+    <edge source="Dieu" target="Celydoines" />
+    <edge source="Dieu" target="Joseph" />
+    <edge source="Dieu" target="Bademagus" />
+    <edge source="Dieu" target="Logres" />
+    <edge source="Dieu" target="Boorz" />
+    <edge source="Dieu" target="Dame" />
+    <edge source="Dieu" target="Artus" />
+    <edge source="Dieu" target="Camaalot" />
+    <edge source="Dieu" target="Jhesucrist" />
+    <edge source="Dieu" target="Marie" />
+    <edge source="Dieu" target="Dieu" />
+    <edge source="Dieu" target="Galaad" />
+    <edge source="Dieu" target="Boort" />
+    <edge source="Dieu" target="Diex" />
+    <edge source="Dieu" target="Perceval" />
+    <edge source="Dieu" target="Mordrains" />
+    <edge source="Dieu" target="Nasciens" />
+    <edge source="Dieu" target="Mordrain" />
+    <edge source="Tholomers" target="Galaad" />
+    <edge source="Tholomers" target="Mordrains" />
+    <edge source="Tholomers" target="Jhesucrist" />
+    <edge source="Tholomers" target="Joseph" />
+    <edge source="Tholomers" target="Jerusalem" />
+    <edge source="Graax" target="Jhesucrist" />
+    <edge source="Gorre" target="Bademagus" />
+    <edge source="Gorre" target="Artus" />
+    <edge source="Gorre" target="Symeon" />
+    <edge source="Gorre" target="Galaad" />
+    <edge source="Gorre" target="Joseph" />
+    <edge source="Gorre" target="Hoselice" />
+    <edge source="Jerusalem" target="Abarimacie" />
+    <edge source="Jerusalem" target="Jhesucrist" />
+    <edge source="Jerusalem" target="Joseph" />
+    <edge source="Jerusalem" target="Galaad" />
+    <edge source="Jerusalem" target="Mordrains" />
+    <edge source="Jerusalem" target="Ebreux" />
+    <edge source="Symeon" target="Galaad" />
+    <edge source="Symeon" target="Joseph" />
+    <edge source="Symeon" target="Hoselice" />
+    <edge source="Mordrain" target="Jhesucrist" />
+    <edge source="Mordrain" target="Celydoines" />
+    <edge source="Mordrain" target="Nasciens" />
+    <edge source="Mordrain" target="Mordrains" />
+    <edge source="David" target="Artus" />
+    <edge source="David" target="Salemons" />
+    <edge source="David" target="Absalon" />
+    <edge source="David" target="Joseph" />
+    <edge source="David" target="Fortin" />
+    <edge source="David" target="Caim" />
+    <edge source="Melianz" target="Galaad" />
+    <edge source="Salemons" target="Absalon" />
+    <edge source="Salemons" target="Salemons" />
+    <edge source="Salemons" target="Fortin" />
+    <edge source="Salemons" target="Galaad" />
+    <edge source="Bademagus" target="Galaad" />
+    <edge source="Bademagus" target="Bademagus" />
+    <edge source="Bademagus" target="Artus" />
+    <edge source="Ullan" target="Logres" />
+    <edge source="Lyon" target="Boort" />
+    <edge source="Lyon" target="Lyon" />
+    <edge source="Lyon" target="Diex" />
+    <edge source="Abarimacie" target="Jhesucrist" />
+    <edge source="Abarimacie" target="Joseph" />
+    <edge source="graax" target="Jhesucrist" />
+    <edge source="Symeu" target="Joseph" />
+    <edge source="Melyant" target="Danemarche" />
+    <edge source="Caim" target="Judas" />
+    <edge source="Caim" target="Cains" />
+    <edge source="Urien" target="Artus" />
+    <edge source="Elays" target="Janaans" />
+    <edge source="Nascien" target="Galaad" />
+    <edge source="Nascien" target="Mordrains" />
+    <edge source="Nascien" target="Bretaigne" />
+    <edge source="Calogrenanz" target="Boort" />
+    <edge source="Artus" target="Joseph" />
+    <edge source="Artus" target="Logres" />
+    <edge source="Artus" target="Babiloine" />
+    <edge source="Artus" target="Artus" />
+    <edge source="Artus" target="Bretaingne" />
+    <edge source="Artus" target="Camaalot" />
+    <edge source="Artus" target="Galois" />
+    <edge source="Artus" target="Gales" />
+    <edge source="Artus" target="Perceval" />
+    <edge source="Artus" target="Nasciens" />
+    <edge source="Artus" target="Boorz" />
+    <edge source="Celydoines" target="Jhesucrist" />
+    <edge source="Celydoines" target="Nasciens" />
+    <edge source="Celydoines" target="Mordrains" />
+    <edge source="Claudas" target="Claudin" />
+    <edge source="Claudas" target="Gaule" />
+    <edge source="Bretaingne" target="Nasciens" />
+    <edge source="Camaalot" target="Logres" />
+    <edge source="Camaalot" target="Galaad" />
+    <edge source="Camaalot" target="Boort" />
+    <edge source="Camaalot" target="Diex" />
+    <edge source="Camaalot" target="Boorz" />
+    <edge source="Camaalot" target="Babiloine" />
+    <edge source="Galaad" target="Boort" />
+    <edge source="Galaad" target="Mordrains" />
+    <edge source="Galaad" target="Irlande" />
+    <edge source="Galaad" target="Joseph" />
+    <edge source="Galaad" target="Hoselice" />
+    <edge source="Galaad" target="Logres" />
+    <edge source="Galaad" target="Melyan" />
+    <edge source="Galaad" target="Marie" />
+    <edge source="Galaad" target="Jhesucrist" />
+    <edge source="Galaad" target="Danemarche" />
+    <edge source="Galaad" target="Gaule" />
+    <edge source="Galaad" target="Diex" />
+    <edge source="Galaad" target="Perceval" />
+    <edge source="Galaad" target="Galaad" />
+    <edge source="Galaad" target="Boorz" />
+    <edge source="Boort" target="Elyan" />
+    <edge source="Boort" target="Lyonel" />
+    <edge source="Boort" target="Boort" />
+    <edge source="Boort" target="Diex" />
+    <edge source="Boort" target="Perceval" />
+    <edge source="Boort" target="Jhesucrist" />
+    <edge source="Boort" target="Boorz" />
+    <edge source="Babiloine" target="Logres" />
+    <edge source="Babiloine" target="Boorz" />
+    <edge source="Diex" target="Logres" />
+    <edge source="Diex" target="Jhesucrist" />
+    <edge source="Diex" target="Diex" />
+    <edge source="Diex" target="Perceval" />
+    <edge source="Diex" target="Bretaigne" />
+    <edge source="Nasciens" target="Jhesucrist" />
+    <edge source="Nasciens" target="Narpus" />
+    <edge source="Nasciens" target="Mordrains" />
+    <edge source="Claudin" target="Gaule" />
+    <edge source="Caym" target="Judas" />
+    <edge source="Caym" target="Jhesucrist" />
+    <edge source="Henri" target="Gautier" />
+    <edge source="Henri" target="Boorz" />
+    <edge source="Henri" target="Map" />
+    <edge source="Irlande" target="Gaule" />
+    <edge source="Irlande" target="Danemarche" />
+    <edge source="Map" target="Gautier" />
+    <edge source="Map" target="Boorz" />
+    <edge source="Judas" target="Jhesucrist" />
+    <edge source="Judas" target="Cains" />
+    <edge source="Hoselice" target="Joseph" />
+    <edge source="Joseph" target="Elyezer" />
+    <edge source="Joseph" target="Joseph" />
+    <edge source="Joseph" target="Jhesucrist" />
+    <edge source="Joseph" target="Arimatie" />
+    <edge source="Joseph" target="Logres" />
+    <edge source="Joseph" target="Mordrains" />
+    <edge source="Elyezer" target="Elyezer" />
+    <edge source="Logres" target="Jhesucrist" />
+    <edge source="Logres" target="Perceval" />
+    <edge source="Logres" target="Boorz" />
+    <edge source="Absalon" target="Fortin" />
+    <edge source="Cains" target="Cains" />
+    <edge source="Hestor" target="Hestor" />
+    <edge source="Gautier" target="Boorz" />
+    <edge source="Danemarche" target="Gaule" />
+    <edge source="Jhesucrist" target="Damedieu" />
+    <edge source="Jhesucrist" target="Jhesucrist" />
+    <edge source="Jhesucrist" target="Mordrains" />
+    <edge source="Jhesucrist" target="Boorz" />
+    <edge source="Jhesucrist" target="Perceval" />
+    <edge source="Gales" target="Perceval" />
+    <edge source="Mordrains" target="Bretaigne" />
+    <edge source="Perceval" target="Galois" />
+    <edge source="Perceval" target="Perceval" />
+    <edge source="Perceval" target="Boorz" />
+    <edge source="Boorz" target="Boorz" />
+  </graph>
+</graphml>
